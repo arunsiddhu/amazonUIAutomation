@@ -1,0 +1,10 @@
+target/
+logs.log
+.classpath
+.project
+.settings/
+debug.log
+bin/
+debug.log
+.metadata/
+index.lock
